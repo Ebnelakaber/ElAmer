@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 cd $HOME/DRAGON
+https://raw.githubusercontent.com/Ebnelakaber/ElAmer
 install() {
 rm -rf $HOME/.telegram-cli
 sudo apt-get update -y
